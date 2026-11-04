@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "9.9",
-  "url": "https://github.com/FluxPipoca/app/releases/latest/download/FLUX_release.apk",
-  "notes": "Teste do aviso de atualização.",
-  "force": false
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apk": "https://github.com/FluxPipoca/app/releases/latest/download/FLUX_release.apk",
+  "url": "https://n.fluxpipoca.workers.dev/",
+  "notes": "Novas telas e melhorias."
 }
